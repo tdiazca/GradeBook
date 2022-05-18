@@ -1,0 +1,10 @@
+C:\Users\A182471\gradebook\obj\Debug\net5.0\gradebook.csprojAssemblyReference.cache
+C:\Users\A182471\gradebook\obj\Debug\net5.0\gradebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A182471\gradebook\obj\Debug\net5.0\gradebook.AssemblyInfoInputs.cache
+C:\Users\A182471\gradebook\obj\Debug\net5.0\gradebook.AssemblyInfo.cs
+C:\Users\A182471\gradebook\obj\Debug\net5.0\gradebook.csproj.CoreCompileInputs.cache
+C:\Users\A182471\source\repos\gradebook\obj\Debug\net5.0\gradebook.csproj.AssemblyReference.cache
+C:\Users\A182471\source\repos\gradebook\obj\Debug\net5.0\gradebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A182471\source\repos\gradebook\obj\Debug\net5.0\gradebook.AssemblyInfoInputs.cache
+C:\Users\A182471\source\repos\gradebook\obj\Debug\net5.0\gradebook.AssemblyInfo.cs
+C:\Users\A182471\source\repos\gradebook\obj\Debug\net5.0\gradebook.csproj.CoreCompileInputs.cache
